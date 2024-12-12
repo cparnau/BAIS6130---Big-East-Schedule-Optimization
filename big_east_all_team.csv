@@ -1,0 +1,111 @@
+,Slot,Home Team,Away Team
+0,0,UConn,Seton Hall
+1,0,Creighton,Butler
+2,0,DePaul,Georgetown
+3,0,Marquette,Providence
+4,0,Villanova,St. Johns
+5,1,St. Johns,Villanova
+6,1,Providence,DePaul
+7,1,Georgetown,Marquette
+8,1,Butler,UConn
+9,1,Seton Hall,Xavier
+10,2,Seton Hall,DePaul
+11,2,Georgetown,UConn
+12,2,Butler,Xavier
+13,2,St. Johns,Marquette
+14,2,Providence,Creighton
+15,3,UConn,Georgetown
+16,3,DePaul,Butler
+17,3,Xavier,Providence
+18,3,Marquette,Seton Hall
+19,3,Villanova,Creighton
+20,4,UConn,St. Johns
+21,4,Creighton,Seton Hall
+22,4,Marquette,Villanova
+23,4,Providence,Xavier
+24,4,Butler,DePaul
+25,5,Seton Hall,Marquette
+26,5,St. Johns,Butler
+27,5,Creighton,Villanova
+28,5,DePaul,UConn
+29,5,Xavier,Georgetown
+30,6,UConn,Creighton
+31,6,St. Johns,DePaul
+32,6,Providence,Marquette
+33,6,Georgetown,Seton Hall
+34,6,Villanova,Xavier
+35,7,Georgetown,Butler
+36,7,Marquette,Xavier
+37,7,Villanova,Seton Hall
+38,7,UConn,Providence
+39,7,Creighton,St. Johns
+40,8,Creighton,DePaul
+41,8,Xavier,Villanova
+42,8,Providence,UConn
+43,8,Butler,Georgetown
+44,8,Seton Hall,St. Johns
+45,9,DePaul,Marquette
+46,9,Xavier,Butler
+47,9,St. Johns,Creighton
+48,9,Providence,Georgetown
+49,9,Villanova,UConn
+50,10,Villanova,Butler
+51,10,Georgetown,Xavier
+52,10,Seton Hall,Creighton
+53,10,St. Johns,Providence
+54,10,Marquette,DePaul
+55,11,UConn,Xavier
+56,11,DePaul,Villanova
+57,11,Providence,St. Johns
+58,11,Butler,Marquette
+59,11,Seton Hall,Georgetown
+60,12,UConn,Butler
+61,12,Creighton,Georgetown
+62,12,DePaul,Providence
+63,12,Xavier,St. Johns
+64,12,Villanova,Marquette
+65,13,Butler,Providence
+66,13,Georgetown,Villanova
+67,13,Xavier,UConn
+68,13,St. Johns,Seton Hall
+69,13,Marquette,Creighton
+70,14,UConn,Marquette
+71,14,DePaul,St. Johns
+72,14,Providence,Seton Hall
+73,14,Georgetown,Creighton
+74,14,Butler,Villanova
+75,15,Creighton,UConn
+76,15,Xavier,DePaul
+77,15,Marquette,Butler
+78,15,Villanova,Georgetown
+79,15,Seton Hall,Providence
+80,16,St. Johns,Georgetown
+81,16,Butler,Seton Hall
+82,16,Creighton,Providence
+83,16,UConn,DePaul
+84,16,Xavier,Marquette
+85,17,DePaul,Xavier
+86,17,Marquette,UConn
+87,17,Georgetown,St. Johns
+88,17,Butler,Creighton
+89,17,Seton Hall,Villanova
+90,18,UConn,Villanova
+91,18,DePaul,Seton Hall
+92,18,Xavier,Creighton
+93,18,Marquette,St. Johns
+94,18,Providence,Butler
+95,19,Seton Hall,Butler
+96,19,Villanova,DePaul
+97,19,St. Johns,UConn
+98,19,Creighton,Xavier
+99,19,Georgetown,Providence
+100,20,Creighton,Marquette
+101,20,St. Johns,Xavier
+102,20,Georgetown,DePaul
+103,20,Villanova,Providence
+104,20,Seton Hall,UConn
+105,21,Providence,Villanova
+106,21,DePaul,Creighton
+107,21,Xavier,Seton Hall
+108,21,Marquette,Georgetown
+109,21,Butler,St. Johns
